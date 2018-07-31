@@ -6,15 +6,15 @@
 
 - Python 3.7
 
-- IDLE - IDE para rodar scripts em python
+- IDLE
 
-- pip 18.0 - https://pypi.org/project/pip/ - ferramenta para instalar pacotes externos.
+- [Pip 18.0](https://pypi.org/project/pip/)
 
-- geckodriver - programa necessário para o WebDriver se comunicar com Gecko Browsers, nesse caso firefox.
+- [Geckodriver](https://github.com/mozilla/geckodriver/releases)
 
 ### Biblioteca externa:
 
-- Selenium WebDriver - seleniumhq.org
+- [Selenium WebDriver](seleniumhq.org)
 
 ### Execução:
 
