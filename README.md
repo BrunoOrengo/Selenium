@@ -18,4 +18,4 @@
 
 ### Execução:
 
-Possuindo os requisitos acima, basta executar o arquivo AutomacaoSelenium.py
+Possuindo os requisitos acima e os arquivos aqui presentes (à exceção dos ".png"), basta executar o arquivo AutomacaoSelenium.py
