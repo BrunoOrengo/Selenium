@@ -14,7 +14,7 @@
 
 ### Biblioteca externa:
 
-- [Selenium WebDriver](seleniumhq.org)
+- Selenium WebDriver - seleniumhq.org
 
 ### Execução:
 
